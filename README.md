@@ -2,7 +2,7 @@
 
 ```js
 const CobosFelipe{
-  pronouns: "He"| "Him",
+  pronouns: "He"|| "Him",
   code: [JavaScript, TypeScript, Python, Java, HTML5, CSS3],
   tools: [React, Git, Node, Styled-Components, Bootstrap, Visual Studio Code],
 }
