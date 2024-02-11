@@ -11,7 +11,7 @@ const CobosFelipe{
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A8ED5&center=true&random=false&width=435&lines=Full+Stack+Web+Developer;Always+learning+new+things;%2B2+Years+coding+experience)](https://git.io/typing-svg)
 
 You can finde me 🗺️:
-- [LinkedIn] (https://www.linkedin.com/in/manuel-cobos-developer)
+- [LinkedIn](https://www.linkedin.com/in/manuel-cobos-developer)
 
 <h3>💻 GitHub Profile Stats</h3>
   
