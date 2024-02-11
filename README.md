@@ -4,7 +4,7 @@
 const CobosFelipe{
   pronouns: "He"| "Him",
   code: [JavaScript, TypeScript, Python, Java, HTML5, CSS3],
-  tools: [React, Node, Styled-Components, Bootstrap],
+  tools: [React, Git, Node, Styled-Components, Bootstrap, Visual Studio Code],
 }
 ```
 
