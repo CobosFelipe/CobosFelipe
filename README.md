@@ -19,7 +19,7 @@ You can finde me 🗺️:
   
 [![CobosFelipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobosfelipe&hide=stars,issues&show=prs_merged_percentage&show_icons=true&theme=github_dark)](https://github.com/cobosfelipe/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cobosfelipe&repo=Yum-Yum-Website&theme=github_dark)](https://github.com/cobosfelipe/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cobosfelipe&repo=Yum-Yum-React&theme=github_dark)](https://github.com/cobosfelipe/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobosfelipe&layout=compact&theme=github_dark)](https://github.com/cobosfelipe/github-readme-stats)
 
